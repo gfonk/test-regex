@@ -1,3 +1,4 @@
 word
 sentence
 paragraph
+article
